@@ -4,7 +4,6 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
-//PostsUpdateRequestDto
 @Getter
 @NoArgsConstructor
 public class PostsUpdateRequestDto {
